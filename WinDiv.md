@@ -1,0 +1,8 @@
+# Introduction #
+
+WinDiv is a JavaScript Class from Markus Bordihn for Div based windows.
+
+
+# Details #
+
+http://winDiv.markusbordihn.de
